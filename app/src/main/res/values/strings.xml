@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AlarmClockApplication</string>
+    <string name="ustaw_alarm">ustaw Alarm</string>
+    <string name="WYjdź" />
+    <string name="powrót" />
+    <string name="back" />
+    <string name="wyjd">Wyjdź</string>
+    <string name="wyjdź">Wyjdź</string>
+</resources>
